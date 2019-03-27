@@ -1,2 +1,2 @@
-# pocker
-Utility to determine pocker hand type
+# poker
+Utility to determine poker hand type
