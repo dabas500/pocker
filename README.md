@@ -1,7 +1,7 @@
-# pocker
-Utility to determine pocker hand type
+# poker
+Utility to determine poker hand type
 
-# Usage:
+# usage:
 ```
 Hand flush = Hand.fromString("7S, 5C, 5H, 5D, 5S");
 will create a Pocker hand and with correct  type.
